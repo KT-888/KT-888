@@ -18,6 +18,8 @@ I hold a CMA (Certified Member Analyst) qualification and specialize in time ser
 
 ## 📂 Featured Projects / 主なプロジェクト
 
+### 🔹 [M5需要予測パイプライン(LightGBM)](https://github.com/K-Tanaka8/M5-Demand-Forecasting-Pipeline)
+
 ### 🔹 [Rossmann Sales Forecasting (LightGBM)](https://github.com/K-Tanaka8/rossmann-sales-forecasting-lightgbm)
 - Kaggle Rossmann Store Salesデータを用いた需要予測
 - Expanding Window CVによるデータリークのない検証
