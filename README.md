@@ -6,9 +6,11 @@
 証券アナリスト資格（CMA）を保有し、
 時系列予測・売上予測・EDAを専門としています。
 
+'''
 I am a data analyst with professional experience in the financial industry.
 I hold a CMA (Certified Member Analyst) qualification and specialize
 in time series forecasting, demand prediction, and EDA.
+'''
 
 ## 🔧 Skills / スキル
 
