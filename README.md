@@ -2,15 +2,10 @@
 
 ## 👋 About Me / 自己紹介
 
-金融分野での実務経験を持つデータアナリストです。
-証券アナリスト資格（CMA）を保有し、
-時系列予測・売上予測・EDAを専門としています。
-
-'''
 I am a data analyst with professional experience in the financial industry.
 I hold a CMA (Certified Member Analyst) qualification and specialize
 in time series forecasting, demand prediction, and EDA.
-'''
+
 
 ## 🔧 Skills / スキル
 
