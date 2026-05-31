@@ -2,9 +2,9 @@
 
 ## 👋 About Me / 自己紹介
 
-I am a data analyst with professional experience in the financial industry.
-I hold a CMA (Certified Member Analyst) qualification and specialize
-in time series forecasting, demand prediction, and EDA.
+I am a data analyst with professional experience in the financial industry.   
+I hold a CMA (Certified Member Analyst) qualification and specialize  
+in time series forecasting, demand prediction, and EDA.  
 
 
 ## 🔧 Skills / スキル
