@@ -1,4 +1,4 @@
-# K-Tanaka | Data Analyst / Forecasting Engineer
+# KT-888 | Data Analyst / Forecasting Engineer
 
 ## 👋 About Me / 自己紹介
 
