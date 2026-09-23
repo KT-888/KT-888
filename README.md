@@ -18,16 +18,16 @@ I hold a CMA (Certified Member Analyst) qualification and specialize in time ser
 
 ## 📂 Featured Projects / 主なプロジェクト
 
-### 🔹 [M5需要予測パイプライン(LightGBM)](https://github.com/K-Tanaka8/M5-Demand-Forecasting-Pipeline)
+### 🔹 [M5需要予測パイプライン(LightGBM)](https://github.com/KT-888/M5-Demand-Forecasting-Pipeline)
 - Kaggle M5 Forcasting 予測データセットを用いた実務向け予測パイプライン
 - LightGBM + Optuna + Walkforward Validation を用いた、店舗×商品の時系列予測
 
-### 🔹 [Rossmann Sales Forecasting (LightGBM)](https://github.com/K-Tanaka8/rossmann-sales-forecasting-lightgbm)
+### 🔹 [Rossmann Sales Forecasting (LightGBM)](https://github.com/KT-888/rossmann-sales-forecasting-lightgbm)
 - Kaggle Rossmann Store Salesデータを用いた需要予測
 - Expanding Window CVによるデータリークのない検証
 - ベースライン比 **64.1%改善**（MASE: 0.359）
 
-### 🔹 [Time Series EDA](https://github.com/K-Tanaka8/time_series_eda_demand_forecast)
+### 🔹 [Time Series EDA](https://github.com/KT-888/time_series_eda_demand_forecast)
 - 時系列データの探索的分析（EDA）サンプル
 - ACF/PACF・STL分解・ADF検定まで網羅
 
