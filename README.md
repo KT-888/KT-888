@@ -25,7 +25,7 @@ I hold a CMA (Certified Member Analyst) qualification and specialize in time ser
 ### 🔹 [Rossmann Sales Forecasting (LightGBM)](https://github.com/KT-888/rossmann-sales-forecasting-lightgbm)
 - Kaggle Rossmann Store Salesデータを用いた需要予測
 - Expanding Window CVによるデータリークのない検証
-- ベースライン(lag_14予測)比 **64.1%改善**(MAE比: 0.359)
+- ベースライン(lag_14予測)比 **59.1%改善**(MAE比: 0.409)
 
 ### 🔹 [Time Series EDA](https://github.com/KT-888/time_series_eda_demand_forecast)
 - 時系列データの探索的分析（EDA）サンプル
