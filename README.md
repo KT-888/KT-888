@@ -37,7 +37,7 @@ I hold a CMA (Certified Member Analyst) qualification and specialize in time ser
 
 - 金融機関での実務経験（証券アナリスト資格保有）
 - POSデータ・携帯位置情報を活用した予測モデル開発経験
-- Python（pandas, LightGBM, Prophet）による時系列分析
+- Python（pandas, LightGBM, Prophet）による時系列データ分析
 
 ---
 
