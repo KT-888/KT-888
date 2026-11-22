@@ -19,7 +19,7 @@ I hold a CMA (Certified Member Analyst) qualification and specialize in time ser
 ## 📂 Featured Projects / 主なプロジェクト
 
 ### 🔹 [M5需要予測パイプライン(LightGBM)](https://github.com/KT-888/M5-Demand-Forecasting-Pipeline)
-- Kaggle M5 Forcasting 予測データセットを用いた実務向け予測パイプライン
+- Kaggle M5 Forecasting 予測データセットを用いた実務向け予測パイプライン
 - LightGBM + Optuna + Walkforward Validation を用いた、店舗×商品の時系列予測
 
 ### 🔹 [Rossmann Sales Forecasting (LightGBM)](https://github.com/KT-888/rossmann-sales-forecasting-lightgbm)
