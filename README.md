@@ -2,7 +2,7 @@
 
 ## 👋 About Me / 自己紹介
 
-Data analyst and forecasting engineer specializing in **time-series analysis** and **tabular data** modeling, holding the **CMA** (Certified Member Analyst / Chartered Member of the Securities Analysts Association of Japan) credential with practical experience in the finance domain.
+Data analyst and forecasting engineer specializing in **time-series forecasting** and **structured data analysis**, holding the **CMA** (Chartered Member of the Securities Analysts Association of Japan) credential with practical experience in the finance domain.
 
 I focus on building reproducible forecasting and analysis pipelines with careful attention to preventing data leakage, validating time-series splits, and designing meaningful features.  
 
