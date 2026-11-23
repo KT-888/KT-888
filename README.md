@@ -4,7 +4,7 @@
 
 **時系列データ分析と機械学習による予測モデル開発**を中心に、Pythonを用いたデータ解析・特徴量設計・モデル構築・評価に取り組んでいます。<br>
 
-LightGBM、XGBoost、Prophetなどを活用し、POSデータ、金融データ、需要・売上データなどの構造化データを対象とした予測モデルを開発しています。<br>
+LightGBM、XGBoost、Prophetなどを活用し、POSデータ、金融データ、需要・売上データなどの構造化データを対象とした予測モデル開発の経験があります。<br>
 
 特に、時系列データ特有のデータリーク防止、適切な時系列分割、特徴量エンジニアリング、Walk-forward ValidationやExpanding Window CVによるモデル評価を重視しています。<br>
 
@@ -13,13 +13,14 @@ LightGBM、XGBoost、Prophetなどを活用し、POSデータ、金融データ�
 
 ## 🔧 Skills / スキル
 
-| Category | Tools |
-|----------|-------|
-| Language | Python |
-| ML Model | LightGBM, Prophet, XGBoost |
-| Analysis | Time Series, EDA, Feature Engineering, Stock Price Prediction |
-| Data | POS Data, Mobile Location Data, Financial Data |
-| Libs | pandas, numpy, matplotlib, seaborn, scikit-learn, lightgbm, xgboost, prophet |
+ カテゴリ | 技術・経験 |
+|--------|-----------|
+| 言語 　　　| Python |
+| 機械学習モデル | LightGBM、XGBoost、Prophet |
+| 時系列分析 | 時系列予測、Walk-forward Validation、Expanding Window CV、ACF/PACF、STL分解、ADF検定 |
+| データ分析 | EDA、特徴量エンジニアリング、データ前処理、モデル評価 |
+| データ領域 | POSデータ、需要・売上データ、金融データ、モバイル位置情報データ |
+| ライブラリ | pandas、NumPy、scikit-learn、LightGBM、XGBoost、Prophet、Matplotlib、Seaborn |
 
 ## 📂 Featured Projects / 主なプロジェクト
 
