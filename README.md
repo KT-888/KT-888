@@ -2,9 +2,10 @@
 
 ## 👋 About Me / 自己紹介
 
-Data analyst and forecasting engineer specializing in **time-series forecasting** and **structured data analysis**, holding the **CMA** (Chartered Member of the Securities Analysts Association of Japan) credential with practical experience in the finance domain.
-
-I focus on building reproducible forecasting and analysis pipelines with careful attention to preventing data leakage, validating time-series splits, and designing meaningful features.  
+**時系列データ分析と機械学習による予測モデル開発**を中心に、Pythonを用いたデータ解析・特徴量設計・モデル構築・評価に取り組んでいます。
+LightGBM、XGBoost、Prophetなどを活用し、POSデータ、金融データ、需要・売上データなどの構造化データを対象とした予測モデルを開発しています。
+特に、時系列データ特有のデータリーク防止、適切な時系列分割、特徴量エンジニアリング、Walk-forward ValidationやExpanding Window CVによるモデル評価を重視しています。
+証券アナリスト協会認定会員（CMA）。金融分野での分析・予測モデル開発経験も有しています。  
 
 
 ## 🔧 Skills / スキル
