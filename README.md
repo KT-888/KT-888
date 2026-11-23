@@ -25,25 +25,32 @@ LightGBM、XGBoost、Prophetなどを活用し、POSデータ、金融データ�
 ## 📂 Featured Projects / 主なプロジェクト
 
 ### 🔹 [M5需要予測パイプライン(LightGBM)](https://github.com/KT-888/M5-Demand-Forecasting-Pipeline)
-- Kaggle M5 Forecasting 予測データセットを用いた実務向け予測パイプライン
-- LightGBM + Optuna + Walkforward Validation を用いた、店舗×商品の時系列予測
+- Kaggle M5 Forecasting 予測データセットを用いた店舗・商品別の需要予測
+- LightGBMとOptunaによるモデル構築・パラメータ最適化
+- Walk-forward Validationによる時系列評価
+- 特徴量設計とデータリーク防止を考慮した予測パイプライン
 
 ### 🔹 [Rossmann Sales Forecasting (LightGBM)](https://github.com/KT-888/rossmann-sales-forecasting-lightgbm)
-- Kaggle Rossmann Store Salesデータを用いた需要予測
-- Expanding Window CVによるデータリークのない検証
-- ベースライン(lag_14予測)比 **59.1%改善**(MAE比: 0.409)
+- Kaggle Rossmann Store Salesデータを用いた売上予測
+- ラグ特徴量・ローリング特徴量を活用した時系列モデル構築
+- Expanding Window CVによるモデル評価
+- ベースライン（lag_14予測）比59.1%のMAE改善
 
 ### 🔹 [Time Series EDA](https://github.com/KT-888/time_series_eda_demand_forecast)
 - 時系列データの探索的分析（EDA）サンプル
-- ACF/PACF・STL分解・ADF検定まで網羅
+- ACF/PACFによる自己相関分析
+- STL分解によるトレンド・季節性の分析
+- ADF検定による定常性の確認
 
 ---
 
 ## 💼 Background / 経歴
 
-- 金融機関での実務経験（証券アナリスト資格保有）
-- POSデータ・携帯位置情報を活用した予測モデル開発経験
-- Pythonによる時系列データ分析
+- 金融機関での実務経験
+- 金融分野におけるAI・機械学習を用いた予測分析
+- POSデータ・モバイル位置情報データを活用した分析・予測
+- Pythonによるデータ前処理、特徴量設計、モデル学習・評価
+- 証券アナリスト協会認定会員（CMA）
 
 ---
 
